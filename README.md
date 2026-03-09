@@ -1,38 +1,39 @@
-# 👋 Hi, I'm Bhaskar Rakesh Kumar Shukla
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Bhaskar Rakesh Kumar Shukla**
 
-### 🚀 Backend Engineer | System Builder | Software Developer
+### 🚀 Senior Software Engineer | AFC Systems | Backend Architect
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer;Laravel+Backend+Developer;Spring+Boot+%7C+Kotlin+Developer;PostgreSQL+Database+Engineer;Building+Metro+Ticketing+Systems&center=true&width=550&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AFC+%7C+Metro+Ticketing+Systems;Laravel+Backend+Developer;Spring+Boot+%7C+Kotlin+Developer;PostgreSQL+Database+Engineer;Building+High+Scale+Transaction+Systems">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 🚇 About Me
 
-💼 Software Engineer building **large scale backend systems**
+💼 **Senior Software Engineer working on Metro Automatic Fare Collection systems**
 
-🚇 Working on **Metro Ticketing Infrastructure**
+⚡ Experienced in **high-scale backend architecture and payment ecosystems**
 
-⚡ Specialized in:
+🔐 Designing **secure transaction processing systems**
 
-* Laravel
-* Kotlin
-* Spring Boot
-* PostgreSQL
-* API Integrations
-* High Performance Backend Systems
+📊 Managing infrastructure handling **570,000+ daily transactions**
 
-🧠 Currently learning:
-
-* Microservices Architecture
-* System Design
-* High Availability Systems
-* Kotlin Backend Development
+🎯 Focused on **high availability systems & large scale databases**
 
 ---
 
-## 🛠 Tech Stack
+# 🧠 Core Expertise
+
+🚇 Automatic Fare Collection (AFC) Systems
+💳 NCMC Open Loop (RuPay) Payment Systems
+🏦 Banking & Settlement Integrations
+🔐 PCI DSS Compliant Systems
+📊 Transaction Reconciliation Engines
+⚙️ Central Computing Systems (CCS)
+
+---
+
+# 🛠 Technology Stack
 
 ### Backend
 
@@ -43,68 +44,90 @@
 ### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge\&logo=mysql)
 
 ### Frontend
 
 ![VueJS](https://img.shields.io/badge/Vue.js-green?style=for-the-badge\&logo=vue.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 
-### DevOps & Tools
+### DevOps
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![Linux](https://img.shields.io/badge/Linux-orange?style=for-the-badge\&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shuklabhaskar&show_icons=true&theme=tokyonight">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shuklabhaskar&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuklabhaskar&theme=tokyonight">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shuklabhaskar&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklabhaskar&layout=compact&theme=tokyonight">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklabhaskar&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🚀 Featured Work
+# 🚀 Key Projects
 
-### 🚇 Metro WhatsApp Ticketing System
+### 🚇 Metro Central Computing System (CCS)
 
-Developed backend system for **ticket booking via WhatsApp**
+Backend architecture for **Automatic Fare Collection systems**
 
-### 💳 CRED Integration – Pune Metro
-
-Integrated **CRED Ads & API communication** with Metro ticketing.
-
-### 📊 CCS Reporting System
-
-Dynamic reporting module using:
-
-Laravel + Vue.js + PostgreSQL
+✔ Transaction processing
+✔ Device communication
+✔ Banking settlement integration
+✔ Configuration management system
 
 ---
 
-## 📈 Contribution Graph
+### 💳 NCMC RuPay Open Loop Implementation
+
+Integrated **banking payment ecosystem** for metro transit.
+
+✔ NPCI integration
+✔ Airtel Payments Bank coordination
+✔ certification testing & deployment
+✔ secure transaction flow
+
+---
+
+### 📦 Delivery Management Platform
+
+Android + Web platform for **delivery partner operations**
+
+✔ Firebase realtime database
+✔ real-time tracking
+✔ operations dashboard
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shuklabhaskar&theme=tokyo-night">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🎓 Education
+
+🎓 **MBA – Liverpool John Moores University** *(Pursuing)*
+🎓 **B.E Computer Science – University of Mumbai**
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
 
