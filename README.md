@@ -1,84 +1,225 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Bhaskar Rakesh Kumar Shukla
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Metro+AFC+Systems+Specialist;Backend+Architect;Laravel+%7C+PostgreSQL+Expert;Building+Mission+Critical+Systems" />
 
-### 🚀 Senior Software Engineer | Metro AFC Systems | Backend Architect
+# 🚀 BHASKAR RAKESH KUMAR SHUKLA
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer;Metro+Ticketing+Systems+Developer;Laravel+Backend+Engineer;PostgreSQL+Database+Specialist;Building+High+Scale+Transaction+Systems">
+### Senior Software Engineer • Metro AFC Systems • Backend Architect
+
+<a href="https://in.linkedin.com/in/bhaskarshukla">
+  <img src="https://img.shields.io/badge/LinkedIn-Bhaskar%20Shukla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shuklabhaskar">
+  <img src="https://img.shields.io/badge/GitHub-shuklabhaskar-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=shuklabhaskar&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# 👨‍💻 Developer Dashboard
+# 🖥 SYSTEM PROFILE
 
-| Profile Views                                                                           | GitHub Followers                                                               | Repositories                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://komarev.com/ghpvc/?username=shuklabhaskar\&color=blue\&style=for-the-badge) | ![](https://img.shields.io/github/followers/shuklabhaskar?style=for-the-badge) | ![](https://img.shields.io/badge/dynamic/json?style=for-the-badge\&color=orange\&label=Repositories\&query=%24.public_repos\&url=https://api.github.com/users/shuklabhaskar) |
-
----
-
-# 🧠 System Expertise
-
-🚇 Automatic Fare Collection Systems
-💳 NCMC RuPay Payment Systems
-⚙️ Central Computing Systems (CCS)
-🔐 Transaction Verification Workflows
-📊 Settlement & Reconciliation Systems
-🏦 Banking API Integrations
-
----
-
-# 🛠 Technology Dashboard
-
-### Backend
-
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-
-### Frontend
-
-![VueJS](https://img.shields.io/badge/VueJS-green?style=for-the-badge\&logo=vue.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge\&logo=mysql)
-
-### Infrastructure
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge\&logo=ubuntu)
-![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge\&logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-darkgreen?style=for-the-badge\&logo=nginx)
+```json
+{
+  "developer": {
+    "name": "Bhaskar Rakesh Kumar Shukla",
+    "designation": "Senior Software Engineer",
+    "location": "Mumbai, India",
+    "experience": "Metro AFC Systems",
+    "specialization": [
+      "Automatic Fare Collection",
+      "NCMC RuPay",
+      "Central Computing Systems",
+      "Bank Integrations",
+      "Settlement Engines",
+      "Revenue Reconciliation"
+    ]
+  }
+}
+```
 
 ---
 
-# 📊 GitHub Analytics Dashboard
+# ⚡ LIVE STATUS
+
+```bash
+bhaskar@metro-ccs:~$ status
+
+NAME            : Bhaskar Rakesh Kumar Shukla
+ROLE            : Senior Software Engineer
+LOCATION        : Mumbai, India
+EXPERIENCE      : AFC Systems
+UPTIME          : 24 Years
+COFFEE_LEVEL    : ████████████ 100%
+SYSTEM_STATE    : RUNNING
+BUGS_FIXED      : 9999+
+```
+
+---
+
+# 📡 API RESPONSE
+
+```http
+GET /api/developer/profile HTTP/1.1
+
+200 OK
+```
+
+```json
+{
+  "success": true,
+  "data": {
+    "name": "Bhaskar Rakesh Kumar Shukla",
+    "role": "Senior Software Engineer",
+    "focus": [
+      "Metro Ticketing",
+      "Open Loop Payments",
+      "NCMC",
+      "RuPay",
+      "Backend Architecture"
+    ],
+    "status": "Available for Collaboration"
+  }
+}
+```
+
+---
+
+# 🛠 TECH STACK
+
+```json
+{
+  "backend": [
+    "Laravel",
+    "PHP",
+    "Java",
+    "Kotlin",
+    "Spring Boot"
+  ],
+
+  "frontend": [
+    "Vue.js",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+
+  "database": [
+    "PostgreSQL",
+    "MySQL"
+  ],
+
+  "infrastructure": [
+    "Ubuntu",
+    "Linux",
+    "Nginx",
+    "Docker"
+  ]
+}
+```
+
+---
+
+# 🏗 SYSTEM ARCHITECTURE
+
+```json
+{
+  "gate_device": {
+    "event": "tap_card"
+  },
+
+  "station_controller": {
+    "validate": true
+  },
+
+  "ccs": {
+    "store": "postgresql",
+    "reconcile": true,
+    "monitor": true
+  },
+
+  "bank": {
+    "settlement": true
+  }
+}
+```
+
+---
+
+# 🚇 ENTERPRISE PROJECTS
+
+```json
+{
+  "projects": [
+    {
+      "name": "Metro Central Computing System",
+      "status": "Production",
+      "scale": "High"
+    },
+
+    {
+      "name": "NCMC RuPay Integration",
+      "status": "Live",
+      "certified": true
+    },
+
+    {
+      "name": "Settlement Engine",
+      "status": "Running"
+    },
+
+    {
+      "name": "Revenue Reconciliation",
+      "status": "Operational"
+    }
+  ]
+}
+```
+
+---
+
+# 🎯 CURRENT OBJECTIVES
+
+```json
+{
+  "2026_goals": {
+    "spring_boot": "In Progress",
+    "kotlin_backend": "Active",
+    "postgresql_mastery": "Advanced",
+    "system_design": "Advanced",
+    "enterprise_architect": "Target"
+  }
+}
+```
+
+---
+
+# 📈 GITHUB ANALYTICS
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shuklabhaskar&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shuklabhaskar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shuklabhaskar&theme=tokyonight"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shuklabhaskar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Language Analytics
+# 📊 LANGUAGE ANALYTICS
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklabhaskar&layout=compact&theme=tokyonight&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklabhaskar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📉 Contribution Activity Graph
+# 🔥 CONTRIBUTION GRAPH
 
 <p align="center">
 
@@ -88,53 +229,73 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 🚀 Major Systems Built
+# 💻 TERMINAL
 
-### 🚇 Metro Central Computing System
+```bash
+bhaskar@server:~$ whoami
 
-✔ Device → CCS → Bank transaction pipeline
-✔ Transaction reconciliation engine
-✔ Revenue reporting modules
-✔ Secure configuration management
+Senior Software Engineer
 
----
+bhaskar@server:~$ current_project
 
-### 💳 NCMC RuPay Open Loop Integration
+Metro AFC Systems
 
-✔ NPCI ecosystem
-✔ Bank integration
-✔ Certification testing
-✔ Production deployment
+bhaskar@server:~$ database
 
----
+PostgreSQL
 
-### 📦 Delivery Platform
+bhaskar@server:~$ framework
 
-✔ Android delivery partner app
-✔ Firebase realtime database
-✔ Operations monitoring dashboard
+Laravel
+
+bhaskar@server:~$ future
+
+Enterprise Architect
+```
 
 ---
 
-# 🎓 Education
+# 🎓 EDUCATION
 
-🎓 MBA – Liverpool John Moores University
-🎓 Computer Science Engineering – University of Mumbai
+```json
+{
+  "education": [
+    {
+      "degree": "MBA",
+      "university": "Liverpool John Moores University"
+    },
+    {
+      "degree": "Bachelor of Engineering",
+      "field": "Computer Science"
+    }
+  ]
+}
+```
 
 ---
+
+# 🌐 CONTACT
+
+```json
+{
+  "linkedin": "https://in.linkedin.com/in/bhaskarshukla",
+  "github": "https://github.com/shuklabhaskar",
+  "status": "Open To Collaboration"
+}
+```
 
 <div align="center">
 
-### ⭐ From Bhaskar Rakesh Kumar Shukla
+### ⚡ Building Mission Critical Payment & Transit Systems
 
 </div>
